@@ -1,0 +1,7 @@
+.github
+.idea
+.next
+build
+node_modules
+out
+venv

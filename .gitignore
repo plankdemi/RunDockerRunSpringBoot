@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Run Docker Run (Spring Boot)/*
+!/Run Docker Run (Spring Boot)/task/
+/Run Docker Run (Spring Boot)/task/*
+!/Run Docker Run (Spring Boot)/task/src
